@@ -2,22 +2,14 @@
 title: "Programmes"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Street Teams"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Our Street Teams exist to make sure young people are safe and well, wherever they are. If they’d rather not come to the centre, our staff check in on them in their local area. This builds a mutual trust and allows positive relationships to be formed. Our team become familiar faces, and get to know the wider community as well as the young people themselves.
+    imageUrl: "/img/team.jpg"
+  - heading: "One 2 One"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+      We allocate young people a Dedicated One2One worker based on their needs and circumstances. Our One2one work could range from a few sessions helping a young person complete a application form, to many years working with them and their families to help overcome a range of complex issues which, together, can have a serious impact on their wellbeing.
+    imageUrl: "/img/campfire.jpg"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
