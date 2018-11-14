@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 type: Get Involved
-image: /img/products-jumbotron.jpg
+image: /img/bbq.jpg
 heading: Join the Cause
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
