@@ -1,99 +1,34 @@
-title: Get Involved
-type: Get Involved
-image: /img/bbq.jpg
-heading: Please Help
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+title: "Programmes"
+image: /img/about-jumbotron.jpg
+values:
+  - heading: "Street Teams"
+    text: >
+      Our Street Teams exist to make sure young people are safe and well, wherever they are. If they’d rather not come to the centre, our staff check in on them in their local area. This builds a mutual trust and allows positive relationships to be formed. Our team become familiar faces, and get to know the wider community as well as the young people themselves. Our joint Street Team and Youth Work Centre Based approach has had positive impacts by helping to reduce anti social behaviour in localised areas. Our Street Teams have also helped young people back into work, education and apprenticeships.
+    imageUrl: "/img/bbq.jpg"
+  - heading: "One 2 One"
+    text: >
+      We allocate young people a Dedicated One2One worker based on their needs and circumstances. Our One2one work could range from a few sessions helping a young person complete a application form, to many years working with them and their families to help overcome a range of complex issues which, together, can have a serious impact on their wellbeing. Through regular one-to-one sessions with their personal worker, young people have a constant in their life – someone who will listen to them, encourage them, raise their aspirations and give them the confidence to overcome anything.
+    imageUrl: "/img/campfire.jpg"
+  - heading: "Centre Based Programmes"
+    text: >
+      Our Centre is open for young people aged 8 to 24. Three times a week we not only teach the young people how to make a nutritious meal, but we also encourage them to sit and enjoy their dinner together. Once a week, we offer an empowerment session for girls, and as of 2019 this will be extended to a boys session also. Prospex are keen to ensure that the women leaving our service are confident and aware of the importance of independence. Further to this, every Christmas, our staff provide a gifts and christmas dinner to the families of our children that cannot afford it.
+
+
+    imageUrl: "/img/yoghurt.jpg"
+  - heading: "Direct sourcing"
+    text: >
+      We want to truly empower the communities that bring amazing
+      coffee to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our coffee is
+      grown. You can see the communities grow and learn more about
+      coffee farming on our blog.
+    imageUrl: "/img/about-direct-sourcing.jpg"
+  - heading: "Reinvest profits"
+    text: >
+      We want to truly empower the communities that bring amazing
+      coffee to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our coffee is
+      grown. You can see the communities grow and learn more about
+      coffee farming on our blog.
+    imageUrl: "/img/about-reinvest-profits.jpg"
 ---
