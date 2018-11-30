@@ -1,4 +1,3 @@
----
 title: Get Involved
 type: Get Involved
 image: /img/bbq.jpg
