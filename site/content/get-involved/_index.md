@@ -2,7 +2,7 @@
 title: Get Involved
 type: Get Involved
 image: /img/bbq.jpg
-heading: Join the Cause
+heading: Please Help
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

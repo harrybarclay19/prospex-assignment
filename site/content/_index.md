@@ -18,7 +18,9 @@ products:
       text: "We run regular cooking, gardening, arts and crafts, team building, and personal development sessions, coupled with sports, physical activity and trips to the countryside.
       Whatever they feel like doing, whoever they are, and whoever they wish to be, we want every young person to find a home at Prospex.
 "
+    - image: /img/team.jpg
+      text: "Each year, we provide over 4000 meals to Islington’s children and 1800 hours of free child care to the parents whose children use our service. For many of our parents, the existence of Prospex’s centre based work is the difference between being able to work and having to stay at home."
 values:
-    heading: Get Involved with Prospex
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Meet the Team
+    text: Our team and volunteers build lasting, meaningful relationships with the young people who come to us. We let them be themselves and engage in positive activities designed to promote and stimulate healthy bodies and healthy minds. 
 ---
