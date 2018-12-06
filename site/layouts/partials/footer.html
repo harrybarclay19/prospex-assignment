@@ -1,58 +1,63 @@
 <div class="donate-widget">
-      <a href="https://localgiving.org/charity/prospex/"  title="Donate to Prospex Now" target="_blank">🧡 Donate Now</a>
-    </div>
+  <a href="https://localgiving.org/charity/prospex/" title="Donate to Prospex Now" target="_blank">🧡 Donate Now</a>
+</div>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">☝🏻</button>
+
 
 <footer class="bg-black ph3 pv4 white">
 
-	<div class="mw7 center pt3">
+  <div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
+    <div class="measure-narrow center mb4">
 
-			<img src="/img/prospex-logo.png" alt="Prospex logo" class="db w4 center mb4 br0">
+      <img src="/img/prospex-logo.png" alt="Prospex logo" class="db w4 center mb4 br0">
 
-		</div>
+    </div>
 
-		<div class="flex-ns justify-between">
+    <div class="flex-ns justify-between">
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Prospex</h3>
-				<ul class="mb3">
-					<li><a href="/programmes" class="link">Our Programmes</a></li>
-					<li><a href="/get-involved" class="link">Get Involved</a></li>
-					<li><a href="/blog" class="link">Blog</a></li>
-					<li><a href="/about" class="link">About</a></li>
+      <div>
+        <h3 class="f4 b lh-title mb1 primary">Prospex</h3>
+        <ul class="mb3">
+          <li><a href="/programmes" class="link">Our Programmes</a></li>
+          <li><a href="/get-involved" class="link">Get Involved</a></li>
+          <li><a href="/blog" class="link">Blog</a></li>
+          <li><a href="/about" class="link">About</a></li>
           <li><a href="/meet-the-team" class="link">Meet the Team</a></li>
-				</ul>
-			</div>
+        </ul>
+      </div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><p>info@prospex.org</p></li>
-					<li></li>
-				</ul>
-			</div>
+      <div>
+        <h3 class="f4 b lh-title mb1 primary">Find out more</h3>
+        <ul class="mb3">
+          <li>
+            <p>info@prospex.org</p>
+          </li>
+          <li></li>
+        </ul>
+      </div>
 
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "https://www.facebook.com/prospex.charity/" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "https://twitter.com/prospextweets?lang=en" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "https://www.instagram.com/explore/locations/252994568072550/prospex/" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "https://vimeo.com/35757294" "svg" "icons-vimeo") }}
-				</ul>
-			</div>
+      <div>
+        <h3 class="f4 b lh-title mb2 primary">Social media</h3>
+        <ul class="mhn2">
+          {{ partial "social-icon" (dict "link" "https://www.facebook.com/prospex.charity/" "svg" "icons-facebook") }}
+          {{ partial "social-icon" (dict "link" "https://twitter.com/prospextweets?lang=en" "svg" "icons-twitter") }}
+          {{ partial "social-icon" (dict "link" "https://www.instagram.com/explore/locations/252994568072550/prospex/" "svg" "icons-instagram") }}
+          {{ partial "social-icon" (dict "link" "https://vimeo.com/35757294" "svg" "icons-vimeo") }}
+        </ul>
+      </div>
 
-		</div>
-	</div>
+    </div>
+  </div>
 
 </footer>
 
 {{ partial "svg" . }}
 
 <script src="/app.js"></script>
+<script src="/scrollFunction.js"></script>
 
-</script>
 
 </body>
 
