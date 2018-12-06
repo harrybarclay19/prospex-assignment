@@ -107,6 +107,26 @@
   background: rgba(50,50,50,0.7);
 }
 
-.mhn2 {
+.dib ph2 raise {
   target: _blank;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: orange;
+  border-color: orange;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+#myBtn:hover{
+  background-color: rgba(255, 165, 0, 1);
 }
