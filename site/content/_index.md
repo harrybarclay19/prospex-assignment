@@ -3,7 +3,7 @@ title: "Prospex"
 subtitle: Can you help?
 image: /img/orange-team.jpg
 blurb:
-    heading: The Challenge
+    heading: Our Mission
     text: "Islington - a highly overpopulated area with two sides, the leafy mansions of the upper class and the low-income households in which a third of under-sixteens live. In one in three Islington households, no-one is employed. Over half of single parents in the borough – mostly mothers – are out of work. Just a fifth are in full employment, half the national average. It’s also full of young people with drive, creativity, ideas – and enormous potential. But without safe green spaces, playgrounds, or youth centres, they have nowhere to grow. And without the financial freedom to travel to other areas of the city, they cannot benefit from better local provisions elsewhere. We don’t want their energy and ambitions to go to waste. Can you help?
 "
 intro:
@@ -22,5 +22,5 @@ products:
       text: "Each year, we provide over 4000 meals to Islington’s children and 1800 hours of free child care to the parents whose children use our service. For many of our parents, the existence of Prospex’s centre based work is the difference between being able to work and having to stay at home."
 values:
     heading: Meet the Team
-    text: Our team and volunteers build lasting, meaningful relationships with the young people who come to us. We let them be themselves and engage in positive activities designed to promote and stimulate healthy bodies and healthy minds. 
+    text: Our team and volunteers build lasting, meaningful relationships with the young people who come to us. We let them be themselves and engage in positive activities designed to promote and stimulate healthy bodies and healthy minds.
 ---

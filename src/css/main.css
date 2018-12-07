@@ -89,7 +89,16 @@
   position: fixed;
   top: calc(50% - 1.75rem);
   right:0;
+  display: flex;
+  flex-wrap: nowrap;
+}
 
+.donate-widget > div {
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
 }
 
 .donate-widget a {
@@ -105,10 +114,6 @@
 .donate-widget a:hover {
   text-decoration: none;
   background: rgba(50,50,50,0.7);
-}
-
-.dib ph2 raise {
-  target: _blank;
 }
 
 #myBtn {
