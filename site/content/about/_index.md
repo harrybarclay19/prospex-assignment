@@ -10,7 +10,7 @@ values:
   - heading: "When were we founded?"
     text: >
       Founded in 2001, the organisation works to address these negative influences, often resulting in low self-esteem and poor school attendance, leading to limited employment prospects.  We establish positive relationships and provide opportunities, build life and employability skills. Young people are able to broaden their horizons outside the limits of their existing thinking and are given the tools to achieve their goals.
-    imageUrl: "/img/campfire.jpg"
+    imageUrl: "/img/orange-garden.jpg"
   - heading: "Our Vision"
     text: >
       We aim to support the young people with whom we come into contact by building a safe environment that enables them to reach their full potential. Whether this means taking homeless teenagers on their first trip to see the ocean, or ensuring that the girls we work with are empowered and confident, we believe that every child deserves to live a life filled with fun and enriching experiences.
@@ -22,6 +22,6 @@ values:
       Potential - Equip young people to build their potential.   
       Positive Living - Be it the food they eat or the way they communicate with their peers, we believe in creating a healthy lifestyle for our young people.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "We aim to provide support for 21-24 as they transition out of our care. This is not attached to any grant or funding and is undertaken as a voluntary in staff members’ own time."
+  - heading: "We aim to provide support for 21-24 year olds as they transition out of our care. This is not attached to any grant or funding and is undertaken as a voluntary in staff members’ own time."
     imageUrl: "/img/canoeing.jpg"
 ---

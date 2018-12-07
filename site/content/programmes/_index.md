@@ -1,6 +1,6 @@
 ---
 title: "Programmes"
-image: /img/about-jumbotron.jpg
+image: /img/sea.jpg
 values:
   - heading: "Street Teams"
     text: >
@@ -13,23 +13,6 @@ values:
   - heading: "Centre Based Programmes"
     text: >
       Our Centre is open for young people aged 8 to 24. Three times a week we not only teach the young people how to make a nutritious meal, but we also encourage them to sit and enjoy their dinner together. Once a week, we offer an empowerment session for girls, and as of 2019 this will be extended to a boys session also. Prospex are keen to ensure that the women leaving our service are confident and aware of the importance of independence. Further to this, every Christmas, our staff provide a gifts and christmas dinner to the families of our children that cannot afford it.
-
-
     imageUrl: "/img/yoghurt.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+
 ---
