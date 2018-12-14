@@ -27,7 +27,7 @@ export default {
   entry: {
     app: ["./js/app"],
     cms: ["./js/cms"],
-    scrollFunction: ["./js/scrollFunction"]
+    scroll: ["./js/scroll"]
   },
   output: {
     path: path.join(__dirname, "dist"),
