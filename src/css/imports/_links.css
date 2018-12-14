@@ -2,6 +2,7 @@
   text-decoration: none;
   transition: var(--hover-transition);
   color: inherit;
+  border-color: none;
 }
 
 .link:link,
@@ -10,7 +11,8 @@
 }
 .link:hover   {
   transition: color .15s ease-in;
-  text-decoration: underline;
+  text-decoration: none;
+  color: var(--primary);
 }
 .link:active  {
   transition: color .15s ease-in;
