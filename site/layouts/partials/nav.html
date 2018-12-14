@@ -5,21 +5,19 @@
    <a href="/blog">Blog</a>
    <a href="/about">About</a>
    <a href="/meet-the-team">Meet the Team</a>
-   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+   <a href="javascript:void(0);" class="icon" onclick="navToggle()">
      <i class="fa fa-bars"></i>
    </a>
  </div>
 
+<script>
+  function navToggle() {
+    var navigation = document.getElementById("myTopnav");
+    if (navigation.className === "topnav") {
+      navigation.className += " responsive";
+    } else {
+      navigation.className = "topnav";
+    }
+  }
 
- <!-- <script>
-
-   function myFunction() {
-     var navigation = document.getElementById("myTopnav");
-     if (navigation.className === "topnav") {
-       navigation.className += " responsive";
-     } else {
-       navigation.className = "topnav";
-     }
-   }
-
- </script> -->
+</script>
