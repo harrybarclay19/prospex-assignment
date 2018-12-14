@@ -1,21 +1,24 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<div class="topnav" id="myTopnav">
+   <a href="/" class="active">Home</a>
+   <a href="/get-involved">Get Involved</a>
+   <a href="/programmes">Programmes</a>
+   <a href="/blog">Blog</a>
+   <a href="/about">About</a>
+   <a href="/meet-the-team">Meet the Team</a>
+   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+     <i class="fa fa-bars"></i>
+   </a>
+ </div>
 
-	
-	  <a href="/" class="pa3 db mr4 h-200 w3 flex-none">
-		<img src="/img/prospex-logo.png" alt="Prospex logo" class="br0 db mb0 w-200"/>
-	</a>
+ <script>
 
-	<ul class="flex b grey-3">
-		<li><a href="/get-involved" class="pa3 no-underline db">Get Involved</a></li>
+   function myFunction() {
+     var navigation = document.getElementById("myTopnav");
+     if (navigation.className === "topnav") {
+       navigation.className += " responsive";
+     } else {
+       navigation.className = "topnav";
+     }
+   }
 
-		<li><a href="/blog" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/programmes" class="pa3 no-underline db">Programmes</a></li>
-
-		<li><a href="/about" class="pa3 no-underline db">About</a></li>
-
-		<li><a href="/meet-the-team" class="pa3 no-underline db">The Team</a></li>
-
-	</ul>
-
- </nav>
+ </script>

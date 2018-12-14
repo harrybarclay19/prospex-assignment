@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" .Params.blurb}}
@@ -8,6 +9,6 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Meet the Team" "buttonLink" "/meet-the-team") }}
 
-{{ partial "blog" . }}
+{{ partial "blog" .}}
 
 {{ end }}
