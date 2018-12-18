@@ -21,7 +21,7 @@ values:
       Family Value - We believe that our role is to support parents in getting the best outcomes for their children.
       Potential - Equip young people to build their potential.   
       Positive Living - Be it the food they eat or the way they communicate with their peers, we believe in creating a healthy lifestyle for our young people.
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/archery.jpg"
   - heading: "We aim to provide support for 21-24 year olds as they transition out of our care. This is not attached to any grant or funding and is undertaken as a voluntary in staff members’ own time."
     imageUrl: "/img/canoeing.jpg"
 ---
